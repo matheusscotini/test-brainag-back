@@ -1,4 +1,4 @@
-## Teste Brain Agriculture Backend
+## Teste Brain Agriculture - Backend
 
 Crie o arquivo .env e copie a configuração do arquivo .env.example.
 
