@@ -51,6 +51,4 @@ $ PATCH: http://localhost:9000/api/producers/1
 ```
 
 ### Referências
-```bash
 https://docs.nestjs.com/
-```
