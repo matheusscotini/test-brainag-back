@@ -25,10 +25,10 @@ $ npm run seed
 ## Rodando a aplicação
 
 ```bash
-# watch mode
+# development
 $ npm run start:dev
 
-# production mode
+# production
 $ npm run start:prod
 ```
 ## API endpoints
