@@ -48,3 +48,9 @@ $ GET: http://localhost:9000/api/producers/
 $ DELETE: http://localhost:9000/api/producers/1
 $ POST: http://localhost:9000/api/producers/
 $ PATCH: http://localhost:9000/api/producers/1
+```
+
+### Referências
+```bash
+https://docs.nestjs.com/
+```
